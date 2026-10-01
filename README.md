@@ -58,3 +58,7 @@ This project demonstrates how user roles, record conditions, and scripts work to
 ## Project Context
 
 Completed as part of the TN Skills ServiceNow micro-project.
+
+## Project Demo
+
+[Watch or download the demo video](./Demo%20Video.mp4)
